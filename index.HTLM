@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+<title> Đây là web tôi thích bạn </title>
+    
+
+   
+  </head>
+  <body>
+    <img width="500" src="https://chiase24.com/wp-content/uploads/2022/02/tang-hap-hanh-anh-a_a-lat-aap-nhayt-44.jpg"> 
+    <h1>
+      Tôi là Nguyễn Vương Thanh
+    </h1>
+    <div>
+      <p>
+        Bộ Môn Tôi Thích Chơi:
+      </p>
+      <ul>
+        <li>Bóng Đá</li>
+        <li>Bóng Chuyền</li>
+        <li>Cầu Lông</li>
+      </ul>
+    </div>
+  
+  <div>
+    <h1>
+      Muốn biết thêm gì về mình không
+    </h1>
+    <form>
+      <input type = "text" placeholder="Điền câu hỏi?"/>
+      <button>
+      Gửi câu hỏi
+    </button>
+         </form>
+    </div>
+ 
+    
+   
+   
+  </body>
+</html>
